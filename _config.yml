@@ -1,7 +1,7 @@
 plugins:
   - jekyll-default-layout
 
-title: Clinical Neurosciences github page
+title: Clinical Neurosciences
 description: YOUR DESCRIPTION
 remote_theme: pmarsceill/just-the-docs
 
