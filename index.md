@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 ---
-<h1>Clinical Neurosciences - department Anatomy & Neurosciences (Amsterdam UMC)</h1>	
+<h1>Clinical Neuroscience - department Anatomy & Neurosciences (Amsterdam UMC)</h1>	
 
 **Welcome to the github page of the Clinical neuroscience team of Anatomy and Neurosciences!**
 
