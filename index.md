@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
 <h1>Clinical Neurosciences - department Anatomy & Neuroscience (Amsterdam UMC)</h1>	
 
 
