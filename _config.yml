@@ -2,7 +2,7 @@ plugins:
   - jekyll-default-layout
 
 title: Clinical Neurosciences
-description: YOUR DESCRIPTION
+description: Welcome to the github page of the Clinical Neuroscience team from Amsterdam UMC!
 remote_theme: pmarsceill/just-the-docs
 
 url: https://KNW-ANW.github.io/KNW-ANW
