@@ -13,4 +13,5 @@ Our vision is to investigate, elucidate, and alleviate neuropathology and cognit
 
 This github page stores our latest publications and corresponding codes, together with repos consisting of lab-specific (pre)processing and analysis steps regarding DTI, fMRI, and structural MRI. 
 
+[[https://github.com/KNW-ANW/KNW-ANW.github.io/blob/main/images/groepsfoto.jpg|alt=groepsfoto]]
 
