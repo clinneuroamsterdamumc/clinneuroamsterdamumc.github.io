@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data analysis
+title: Data analyses
 nav_order: 3
 has_children: true
 ---
