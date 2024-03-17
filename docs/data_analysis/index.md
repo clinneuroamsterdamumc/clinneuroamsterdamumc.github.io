@@ -1,9 +1,3 @@
----
-layout: default
-title: Data analyses
-nav_order: 3
-has_children: true
----
 <h1>Data analyses</h1>
 This page is dedicated to shared code for data analyses. 
 
