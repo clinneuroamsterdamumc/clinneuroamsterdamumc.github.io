@@ -1,4 +1,10 @@
-<h1>Data analyses</h1>
+---
+layout: default
+title: Data analyses
+nav_order: 2
+has_children: false
+---
+
 This page is dedicated to shared code for data analyses. 
 
 ## Timeseries analyses
