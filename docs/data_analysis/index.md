@@ -3,6 +3,7 @@ layout: default
 title: Data analyses
 nav_order: 2
 has_children: false
+has_toc: false
 ---
 
 This page is dedicated to shared code for data analyses. 
