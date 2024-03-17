@@ -10,7 +10,7 @@ This page is dedicated to shared code for data analyses.
 
 ## Timeseries analyses
 
-### Generate Surrogate Data
+### Generate Surrogate Data [matlab]{: .label }
 This code will perform phase randomization on fourier transformed data, consistently across timeseries. This preserves static connectivity and n-lag autocorrelation, but time-dependent connectivity properties are randomized.
 
 [Code](https://github.com/taabroeders/Recon_Dyn_MS/blob/main/Generate_surrogate.m){: .btn }
