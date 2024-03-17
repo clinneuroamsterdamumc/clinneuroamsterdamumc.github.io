@@ -11,10 +11,8 @@ This page is dedicated to shared code for data analyses. Code is categorized by 
 
 ## Timeseries analyses
 
-### Generate Surrogate Data matlab {: .label }
-This code will perform phase randomization on fourier transformed data, consistently across timeseries. This preserves static connectivity and n-lag autocorrelation, but time-dependent connectivity properties are randomized.
-
-[Code](https://github.com/taabroeders/Recon_Dyn_MS/blob/main/Generate_surrogate.m){: .btn }
+### Generate Surrogate Data
+This code will perform phase randomization on fourier transformed data, consistently across timeseries. This preserves static connectivity and n-lag autocorrelation, but time-dependent connectivity properties are randomized. [Go to code](https://github.com/taabroeders/Recon_Dyn_MS/blob/main/Generate_surrogate.m)
 
 Please use the following citation if you are using this code:
 - PAPER TOMMY
@@ -22,9 +20,7 @@ Please use the following citation if you are using this code:
 ## Network analyses
 
 ### Multilayer Community Detection
-This code will perform community detection for multilayer connectivity matrices. The code is relatively computationally inexpensive and uses prior information on subnetwork organization to initialize/constrain the detection.
-
-[Code](https://github.com/taabroeders/Recon_Dyn_MS/blob/main/CommunityDetection.m){: .btn }
+This code will perform community detection for multilayer connectivity matrices. The code is relatively computationally inexpensive and uses prior information on subnetwork organization to initialize/constrain the detection. [Go to code](https://github.com/taabroeders/Recon_Dyn_MS/blob/main/CommunityDetection.m)
 
 Please use the following citation if you are using this code:
 - PAPER TOMMY
