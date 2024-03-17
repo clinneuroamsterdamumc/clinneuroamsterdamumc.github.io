@@ -1,15 +1,5 @@
-.first-color { 
-	background: #ececec; 
-}
-	
-.second-color { 
-	background: #9fd3c7; 
-}
-
-.third-color { 
-	background: #385170; 
-}
-
-.fourth-color { 
-	background: #142d4c; 
-}
+// Override the colors using available variables
+$purple-000: #ececec !default;
+$purple-100: #9fd3c7 !default;
+$purple-200: #385170 !default;
+$purple-300: #142d4c !default;
