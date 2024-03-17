@@ -11,6 +11,8 @@ url: https://KNW-ANW.github.io/KNW-ANW
 # Supports true (default) or false
 search_enabled: true
 
+color_scheme: custom_colors
+
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
