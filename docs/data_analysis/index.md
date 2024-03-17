@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Data analyses
-nav_order: 2
+nav_order: 4
 has_children: false
 has_toc: false
 ---
+# Data analyses
 
-This page is dedicated to shared code for data analyses. 
+This page is dedicated to shared code for data analyses. Code is categorized by type of analysis. Please use the corresponding citations if you are using code from this page. 
 
 ## Timeseries analyses
 
