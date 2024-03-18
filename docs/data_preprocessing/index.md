@@ -9,14 +9,15 @@ has_toc: false
 This page is dedicated to shared code for data preprocessing. Code is categorized by type of analysis. Please use the corresponding citations if you are using code from this page.
 
 <h2>Connectivity preprocessing pipeline</h2>
-This code will perform anatomical, functional and diffusion preprocessing to facilitate resting-state functional connectivity and/or diffusion-based structural connectivity studies. 
+This code will perform anatomical, functional and diffusion preprocessing to facilitate resting-state functional connectivity and/or diffusion-based structural connectivity studies.\ 
 Click [here](https://github.com/taabroeders/Connectivity_Processing_Pipeline) to go directly to the code.\
-Please use the following citation if you use this code: Broeders T.A.A., Koubiyr I., Schoonheim M.M. (2024). Connectivity Preprocessing Pipeline. GitHub. https://github.com/taabroeders/Connectivity_Processing_Pipeline. 
+Please use the following citation if you use this code: *Broeders T.A.A., Koubiyr I., Schoonheim M.M. (2024). Connectivity Preprocessing Pipeline. GitHub. https://github.com/taabroeders/Connectivity_Processing_Pipeline*.\ 
+
+
 
 <details>
-<summary>
-  More information about code
-</summary>
+<summary> **More information about code** </summary>
+  
   # Connectivity Preprocessing Pipeline
 This is the preprocessing pipeline for functional and structural connectivity and network analyses, created by the Clinical Neurosciences team at the department of Anatomy and Neurosciences in Amsterdam. We hope it might be of use to you!
 
@@ -170,5 +171,6 @@ This will run only the diffusion part of the pipeline (also only possible if the
 
 ## Contact
 For questions please email [Tommy Broeders](mailto:t.broeders@amsterdamumc.nl).
+
 </details>
 
