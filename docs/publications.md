@@ -34,4 +34,11 @@ Click [here](https://pubmed.ncbi.nlm.nih.gov/?term=Schoonheim+MM%5BAuthor%5D&sor
 <span class="fs-3">
 [Code](https://github.com/KNW-ANW/publications/tree/main/test_paper_2022){: .btn }
 </span>
+- Broeders, T. A., Douw, L., Eijlers, A. J., Dekker, I., Uitdehaag, B. M., Barkhof, F., ... & Schoonheim, M. M. (2022). A more unstable resting-state functional network in cognitively declining multiple sclerosis. Brain Communications, 4(2), fcac095.
+<span class="fs-3">
+[Paper](https://academic.oup.com/braincomms/article/4/2/fcac095/6567552){: .btn }
+</span>
+<span class="fs-3">
+[Code](https://github.com/taabroeders/Recon_Dyn_MS){: .btn }
+</span>
 
